@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d567276-5727-462c-9654-86fda41bc9a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yii2/basic/views/site/index.php" afterPath="$PROJECT_DIR$/yii2/basic/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yii2repo.iws" />
     <ignored path=".idea/workspace.xml" />
